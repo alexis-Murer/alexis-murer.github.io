@@ -97,6 +97,8 @@ const translations = {
     education_eyebrow: "05 — FORMATION", education_title: "Une double compétence scientifique et managériale.",
     education_mae_date: "sept. 2025 — sept. 2026", education_fci_date: "sept. 2023 — sept. 2025", education_itech_date: "sept. 2022 — sept. 2023",
     education_mae: "Master Management et Administration des Entreprises", education_fci: "Master Formulation et Chimie Industrielle", education_license: "Licence professionnelle · Formulation Coloriste Cosmétique", education_bts: "BTS Métiers de la chimie", education_bac: "Baccalauréat professionnel · Technicien du contrôle qualité",
+    education_mae_thesis: "Mémoire de recherche de Master 2",
+    education_mae_thesis_link: "Consulter le mémoire — PDF, 71 pages ↗",
     contact_eyebrow: "06 — CONTACT", contact_title: "Un projet, une opportunité, une discussion ?", contact_text: "Je suis disponible par e-mail ou sur LinkedIn.", footer_text: "Portfolio personnel"
   },
   en: {
@@ -158,6 +160,8 @@ const translations = {
     education_eyebrow: "05 — EDUCATION", education_title: "A dual scientific and managerial background.",
     education_mae_date: "Sep. 2025 — Sep. 2026", education_fci_date: "Sep. 2023 — Sep. 2025", education_itech_date: "Sep. 2022 — Sep. 2023",
     education_mae: "Master's degree in Business Administration and Management", education_fci: "Master's degree in Formulation and Industrial Chemistry", education_license: "Professional Bachelor's degree · Cosmetic Color Formulation", education_bts: "Advanced Technician Diploma in Chemistry", education_bac: "Vocational Baccalaureate · Quality Control Technician",
+    education_mae_thesis: "Master's research thesis",
+    education_mae_thesis_link: "View the thesis — French PDF, 71 pages ↗",
     contact_eyebrow: "06 — CONTACT", contact_title: "A project, an opportunity, a conversation?", contact_text: "I am available by email or on LinkedIn.", footer_text: "Personal portfolio"
   }
 };

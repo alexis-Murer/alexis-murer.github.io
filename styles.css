@@ -1200,3 +1200,26 @@ body {
     font-size: 0.86rem;
   }
 }
+.education-card .thesis-label {
+  margin: 20px 0 12px;
+  color: var(--text);
+  font-weight: 750;
+}
+
+.thesis-link {
+  display: inline-flex;
+  align-items: center;
+  padding: 11px 16px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  color: var(--text);
+  background: var(--accent-soft);
+  font-size: 0.85rem;
+  font-weight: 800;
+  transition: transform 0.2s ease, border-color 0.2s ease;
+}
+
+.thesis-link:hover {
+  transform: translateY(-2px);
+  border-color: var(--accent);
+}
